@@ -7,7 +7,6 @@
     "test": "grunt test"
   },
   "keywords": [
-    "express",
     "connect",
     "authorization",
     "shiro",
